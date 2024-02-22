@@ -1,0 +1,25 @@
+body{
+    background-image: url("picture.jpg"); 
+    background-repeat: no-repeat; 
+    background-size: 100%;
+    text-align: center;
+    margin-top:80px;
+    border-radius: 30px;
+}
+button{
+    margin-right: 15px;
+    border:2px solid white;
+   background-image: url("pink-abstract-background-wallpaper-outline.jpg");
+ 
+}
+ 
+
+table{
+    margin-left: 825px;
+    border-radius: 5px;
+    
+    border: 3px solid black;
+    border: 1px solid white;
+
+
+}
